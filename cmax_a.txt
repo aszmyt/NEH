@@ -1,0 +1,242 @@
+data.000.txt :0 Czas wykonania: 0 ms.
+
+data.001.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.002.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.003.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.004.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.005.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.006.txt :0 Czas wykonania: 0 ms.
+
+data.007.txt :0 Czas wykonania: 0 ms.
+
+data.008.txt :0 Czas wykonania: 0 ms.
+
+data.009.txt :0 Czas wykonania: 0 ms.
+
+data.010.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.011.txt :0 Czas wykonania: 0 ms.
+
+data.012.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.013.txt :0 Czas wykonania: 0 ms.
+
+data.014.txt :0 Czas wykonania: 0 ms.
+
+data.015.txt :0 Czas wykonania: 0 ms.
+
+data.016.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.017.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.018.txt :0 Czas wykonania: 0 ms.
+
+data.019.txt :0 Czas wykonania: 0 ms.
+
+data.020.txt :0 Czas wykonania: 0 ms.
+
+data.021.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.022.txt :0 Czas wykonania: 0 ms.
+
+data.023.txt :0 Czas wykonania: 0 ms.
+
+data.024.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.025.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.026.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.027.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.028.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.029.txt :0 Czas wykonania: 0 ms.
+
+data.030.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.031.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.032.txt :0 Czas wykonania: 0.000932996 ms.
+
+data.033.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.034.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.035.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.036.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.037.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.038.txt :0 Czas wykonania: 0 ms.
+
+data.039.txt :0 Czas wykonania: 0 ms.
+
+data.040.txt :0 Czas wykonania: 0 ms.
+
+data.041.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.042.txt :0 Czas wykonania: 0 ms.
+
+data.043.txt :0 Czas wykonania: 0 ms.
+
+data.044.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.045.txt :0 Czas wykonania: 0 ms.
+
+data.046.txt :0 Czas wykonania: 0 ms.
+
+data.047.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.048.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.049.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.050.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.051.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.052.txt :0 Czas wykonania: 0 ms.
+
+data.053.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.054.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.055.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.056.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.057.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.058.txt :0 Czas wykonania: 0 ms.
+
+data.059.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.060.txt :0 Czas wykonania: 0 ms.
+
+data.061.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.062.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.063.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.064.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.065.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.066.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.067.txt :0 Czas wykonania: 0 ms.
+
+data.068.txt :0 Czas wykonania: 0 ms.
+
+data.069.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.070.txt :0 Czas wykonania: 0 ms.
+
+data.071.txt :0 Czas wykonania: 0 ms.
+
+data.072.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.073.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.074.txt :0 Czas wykonania: 0 ms.
+
+data.075.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.076.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.077.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.078.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.079.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.080.txt :0 Czas wykonania: 0 ms.
+
+data.081.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.082.txt :0 Czas wykonania: 0 ms.
+
+data.083.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.084.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.085.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.086.txt :0 Czas wykonania: 0 ms.
+
+data.087.txt :0 Czas wykonania: 0 ms.
+
+data.088.txt :0 Czas wykonania: 0 ms.
+
+data.089.txt :0 Czas wykonania: 0 ms.
+
+data.090.txt :0 Czas wykonania: 0 ms.
+
+data.091.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.092.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.093.txt :0 Czas wykonania: 0 ms.
+
+data.094.txt :0 Czas wykonania: 0 ms.
+
+data.095.txt :0 Czas wykonania: 0 ms.
+
+data.096.txt :0 Czas wykonania: 0 ms.
+
+data.097.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.098.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.099.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.100.txt :0 Czas wykonania: 0 ms.
+
+data.101.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.102.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.103.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.104.txt :0 Czas wykonania: 0 ms.
+
+data.105.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.106.txt :0 Czas wykonania: 0 ms.
+
+data.107.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.108.txt :0 Czas wykonania: 0 ms.
+
+data.109.txt :0 Czas wykonania: 0 ms.
+
+data.110.txt :0 Czas wykonania: 0 ms.
+
+data.111.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.112.txt :0 Czas wykonania: 0 ms.
+
+data.113.txt :0 Czas wykonania: 0 ms.
+
+data.114.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.115.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.116.txt :0 Czas wykonania: 0 ms.
+
+data.117.txt :0 Czas wykonania: 0.000466498 ms.
+
+data.118.txt :0 Czas wykonania: 0 ms.
+
+data.119.txt :0 Czas wykonania: 0 ms.
+
+data.120.txt :0 Czas wykonania: 0.000466498 ms.
+

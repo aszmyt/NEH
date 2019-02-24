@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461273837 source:c:\users\teeto\documents\spd\neh\neh\main.cpp
+	<iostream>
+	<cmath>
+	<Windows.h>
+	<fstream>
+	<ctime>
+	<vector>
+
